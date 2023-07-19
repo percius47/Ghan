@@ -1,0 +1,39 @@
+[
+{
+    "name":"iphone",
+    "price":154,
+    "feature":true,
+    "company":"apple"
+},
+{
+    "name":"iphone2",
+    "price":1540,
+    "feature":true,
+    "company":"apple"
+},
+{
+    "name":"iphone6",
+    "price":15400,
+    "feature":true,
+    "company":"samsung"
+},
+{
+    "name":"iphone14",
+    "price":154000,
+    "feature":true,
+    "company":"MI"
+},
+{
+    "name":"Galaxy",
+    "price":100000,
+    "feature":true,
+    "company":"samsung"
+},
+{
+    "name":"Note8",
+    "price":20000,
+    "feature":true,
+    "company":"MI"
+}
+
+]
