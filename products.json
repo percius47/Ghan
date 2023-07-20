@@ -1,24 +1,30 @@
 [
 {
-    "name":"iphone",
+    "name":"a",
     "price":154,
     "feature":true,
     "company":"apple"
 },
 {
-    "name":"iphone2",
+    "name":"watch series 8",
     "price":1540,
     "feature":true,
     "company":"apple"
 },
 {
-    "name":"iphone6",
+    "name":"watch series 7",
+    "price":1530,
+    "feature":true,
+    "company":"apple"
+},
+{
+    "name":"Note 5",
     "price":15400,
     "feature":true,
     "company":"samsung"
 },
 {
-    "name":"iphone14",
+    "name":"Note 8 pro",
     "price":154000,
     "feature":true,
     "company":"MI"
@@ -30,7 +36,7 @@
     "company":"samsung"
 },
 {
-    "name":"Note8",
+    "name":"B Note 8",
     "price":20000,
     "feature":true,
     "company":"MI"
